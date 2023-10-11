@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, eu sou o Bruno 🤓
+<br/>
 
-<!--
-**brunoLopes-dev/brunoLopes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoLopes-dev&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Minhas Tecnologias Favoritas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div styLe="display: inline_block"<br/>
+   <img align="center" alt"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt"css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt"javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img align="center" alt"node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   <img align="center" alt"typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt"react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+<br/>
+
+👨🏻‍💻 Uma pessoa apaixonada pelo mundo da tecnologia, é como ser um alquimista dos tempos modernos, constantemente moldando o futuro com cada linha de código. É uma jornada de aprendizado constante, adaptação, evolução e infinitas possibilidades. 🧙🏼
+
