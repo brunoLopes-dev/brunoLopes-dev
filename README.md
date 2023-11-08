@@ -1,5 +1,6 @@
 ### Olá, eu sou o Bruno 🤓
 <br/>
+
 ## Minhas Tecnologias Favoritas 
 
 <div styLe="display: inline_block"<br/>
