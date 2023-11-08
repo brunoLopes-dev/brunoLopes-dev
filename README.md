@@ -1,8 +1,5 @@
 ### Olá, eu sou o Bruno 🤓
 <br/>
-
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoLopes-dev&show_icons=true&theme=tokyonight)
-
 ## Minhas Tecnologias Favoritas 
 
 <div styLe="display: inline_block"<br/>
