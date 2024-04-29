@@ -1,6 +1,8 @@
 ### Olá, eu sou o Bruno 🤓
 <br/>
 
+Sou um desenvolvedor web com um histórico sólido em uma variedade de projetos, desde aplicativos web até sites de comércio eletrônico. Comprometido com a entrega de resultados de alta qualidade, minhas habilidades abrangem todos os aspectos do desenvolvimento web, desde a criação de interfaces de usuário atraentes até a implementação robusta do back-end. Com experiência em linguagens e tecnologias como HTML, CSS, JavaScript, React, Node.js e SQL.
+
 ## Minhas Tecnologias Favoritas 
 
 <div styLe="display: inline_block"<br/>
